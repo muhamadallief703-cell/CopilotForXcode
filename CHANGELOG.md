@@ -34,7 +34,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Disable auto focus for fix error window.
 - Fixed an issue where no file change was made when insert_edit_into_file tool succeeds.
-- Fixed an issue where insert edit was applied to the incorrect file.
+- Fixed an issue where insert edit was applied to the incorrertp
+ct file.
 - Fixed model picker to use model id instead of model family.
 - Fixed read_file, read_directory tool randomly failing.
 
